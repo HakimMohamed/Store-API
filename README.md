@@ -1,9 +1,5 @@
 # Store-API
 
-to install run npm install</br>
-then </br>
-
-this project is provided with a dataBase with TOTAL DOCUMENTS: 23
 
 ### Ports
 
@@ -12,9 +8,9 @@ this project is provided with a dataBase with TOTAL DOCUMENTS: 23
 
 ### Packages
 
-- To install packages: write "npm install" in the terminal.
+> - To install packages: write "npm install" in the terminal.
 > -  you can find the dataBase in products.json you can upload to the database by running npm populate.js
-- Create .env file and connect it to your DB.
+> - Create .env file and connect it to your DB.
 
 
   
